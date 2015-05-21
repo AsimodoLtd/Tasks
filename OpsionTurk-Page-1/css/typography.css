@@ -1,0 +1,75 @@
+@font-face {
+    font-family: Roboto-bold;
+    src: url(fonts/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: Roboto-regular;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: Roboto-light;
+    src: url(fonts/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: Myriad-regular;
+    src: url(fonts/MyriadPro-Regular.otf);
+}
+
+body{
+    font-family: Myriad-regular,sans-serif;
+}
+h1{
+    font-family: Roboto-bold,sans-serif;
+    text-decoration: inherit;
+    text-align: center;
+    font-style: inherit;
+    font-weight: 100;
+    font-size: 1.5em;
+    color: #003249;
+}
+h2{
+    font-family:  Roboto-regular,sans-serif;
+    text-decoration: inherit;
+    font-style: inherit;
+    font-weight: 100;
+    font-size: 1.2em;
+    color: #003249;
+}
+#main-form h3{
+    font-family: Roboto-light,sans-serif;
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #003249;
+
+}
+.agree #checkbox-reg{
+    font-size: 0.8em;
+}
+#footer-main{
+    color: white;
+    font-size: 1.2em;
+    text-align: left;
+    padding-left: 2%;
+}
+#text-main{
+    line-height: 180%;
+    text-align: left;
+}
+#text-main p span{
+    color: red;
+}
+
+form #submit{
+    font-size: 1.2em;
+    color: #ffffff;
+}
+footer a input{
+    font-size: 1.2em;
+    color: #ffffff;
+}
+
+#end-page{
+    color: white;
+    font-size: 0.7em;
+ }
