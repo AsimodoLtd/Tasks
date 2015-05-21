@@ -24,10 +24,10 @@ body{
 
 }
 #main-information{
-    background-image: url("../images/girl.png");
-    -moz-background-image: url("../images/girl.png");
-    -o-background-image: url("../images/girl.png");
-    -webkit-background-image:url("../images/girl.png");
+    background-image: url("../images/grandfather-background.png");
+    -moz-background-image: url("../images/grandfather-background.png");
+    -o-background-image: url("../images/grandfather-background.png");
+    -webkit-background-image:url("../images/grandfather-background.png");
     background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -54,10 +54,10 @@ header #logo img{
 header h1{
     text-align: right;
     width: 64%;
-    padding-top: 2%;
+    padding-top: 1%;
     padding-left: 2%;
     margin: 0 auto;
-    font-size: 3em;
+    font-size: 2.7em;
     display: inline-block;
 
 }
@@ -286,10 +286,10 @@ body{
 @media screen and (max-width: 800px) {
 
     body{
-        background-image: url("../images/phone-background.png");
-        -moz-background-image: url("../images/phone-background.png");
-        -o-background-image: url("../images/phone-background.png");
-        -webkit-background-image:url("../images/phone-background.png");
+        background-image: url("../images/phone-background-2.png");
+        -moz-background-image: url("../images/phone-background-2.png");
+        -o-background-image: url("../images/phone-background-2.png");
+        -webkit-background-image:url("../images/phone-background-2.png");
         background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
