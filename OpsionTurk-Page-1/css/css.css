@@ -390,11 +390,17 @@ body{
 }
 
 @media screen and (max-width: 500px){
+    header #logo{
+        padding: 1.4%;
+        width: 50%;
+        display: inline-block;
+
+    }
     #main-information h1{
-        font-size: 1.9em;
+        font-size: 2.5em;
     }
     #text-main h2{
-        font-size: 0.6em;
+        font-size: 0.7em;
         line-height: 2;
     }
 
@@ -403,6 +409,7 @@ body{
         display: block;
         padding-bottom: 10%;
     }
+
 
 }
 
